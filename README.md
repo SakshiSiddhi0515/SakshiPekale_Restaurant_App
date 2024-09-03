@@ -1,4 +1,4 @@
 # SakshiPekale_Restaurant_App
 
-Restaurant app built using vite+React 
-Stripe payment getway API for money transaction
+1. Restaurant app built using vite+React 
+2. Stripe payment getway API for money transaction
