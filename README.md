@@ -4,7 +4,8 @@
 2. Stripe payment getway API for money transaction
 
 
-How to run:
-Unzip all the files:
-make three folders: Frontend, backend and admin
-Run npm install and npm run dev
+3. How to run:
+  Unzip all the files:
+  make three folders: Frontend, backend and admin
+  Run npm install and npm run dev
+ 
